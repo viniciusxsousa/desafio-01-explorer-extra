@@ -13,3 +13,4 @@ Este projeto é uma landing page desenvolvida para uma agência de turismo. Util
 
 
 ### :desktop_computer: Previa
+![print do projeto](src/img/print.png)
